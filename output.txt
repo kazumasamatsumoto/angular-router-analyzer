@@ -1,0 +1,4678 @@
+解析中: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts"
+ファイル解析開始: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts"
+ファイルサイズ: 2194 bytes
+パース成功。モジュール解析開始...
+  → 変数宣言発見: routes
+    → routes配列定義発見: 9 要素
+    → 変数 'routes' に 9 個のルートオブジェクトを保存
+  → RouterModuleの呼び出し発見: 1
+    → メソッド: forChild
+    → forRoot/forChild発見! 引数数: 1
+    → 変数参照発見: routes
+    → 変数 'routes' からルート定義を取得: 9 個
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: 
+    → プロパティ発見: redirectTo
+    → プロパティ発見: pathMatch
+      → ルート情報生成: path=Some(""), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: alclient/frmsalca010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("alclient/frmsalca010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: alclient/frmsalca020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("alclient/frmsalca020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: alclient/frmsalca030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("alclient/frmsalca030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: alclient/frmsalca040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("alclient/frmsalca040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: alclient/frmsalca050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("alclient/frmsalca050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: alclient/frmsalde010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("alclient/frmsalde010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: alclient/frmsalde030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("alclient/frmsalde030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: alclient/frmsalde040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("alclient/frmsalde040"), loadChildren=None
+解析完了:
+  - 総CallExpr数: 2
+  - RouterModule呼び出し数: 1
+  - 発見された変数数: 1
+  - 発見されたルート数: 9
+解析中: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts"
+ファイル解析開始: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts"
+ファイルサイズ: 16892 bytes
+パース成功。モジュール解析開始...
+  → 変数宣言発見: routes
+    → routes配列定義発見: 75 要素
+    → 変数 'routes' に 75 個のルートオブジェクトを保存
+  → RouterModuleの呼び出し発見: 1
+    → メソッド: forChild
+    → forRoot/forChild発見! 引数数: 1
+    → 変数参照発見: routes
+    → 変数 'routes' からルート定義を取得: 75 個
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: 
+    → プロパティ発見: redirectTo
+    → プロパティ発見: pathMatch
+      → ルート情報生成: path=Some(""), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaaa010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("baclient/frmsbaaa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaaa030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaaa030"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: baclient/SBASlpArrvlShipPlanDetail
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("baclient/SBASlpArrvlShipPlanDetail"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: baclient/SBASlpArrvlShipPlanDetailOpt
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("baclient/SBASlpArrvlShipPlanDetailOpt"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaaa040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaaa040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaab010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaab010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaac010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaac010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaba010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaba010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbabb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbabb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbabb020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbabb020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbabb030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbabb030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaca010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaca010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaca020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaca020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaca030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaca030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaca040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaca040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbadb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbadb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbadc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbadc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbadd010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbadd010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbade010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbade010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaea010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaea010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaea020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaea020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaea030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaea030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaea040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaea040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaea050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaea050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbafa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbafa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbafa020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbafa020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbafa030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbafa030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbafb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbafb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbafb020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbafb020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbafc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbafc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbafd010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbafd010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbafe010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbafe010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbafe020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbafe020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbage010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbage010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbage020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbage020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbage030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbage030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbage040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbage040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbage050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbage050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbage060
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbage060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbahb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbahb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaka010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaka010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaka020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaka020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaka030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaka030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaka040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaka040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaka050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaka050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaka060
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaka060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbaka070
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbaka070"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala060
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala070
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala070"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala080
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala080"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala090
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala090"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbala100
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbala100"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalb020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalb020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalb030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalb030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc060
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc070
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc070"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc080
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc080"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc100
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc100"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc110
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc110"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbalc120
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbalc120"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbama010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("baclient/frmsbama010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbana010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbana010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: baclient/frmsbapa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("baclient/frmsbapa010"), loadChildren=None
+解析完了:
+  - 総CallExpr数: 2
+  - RouterModule呼び出し数: 1
+  - 発見された変数数: 1
+  - 発見されたルート数: 75
+解析中: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts"
+ファイル解析開始: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts"
+ファイルサイズ: 3482 bytes
+パース成功。モジュール解析開始...
+  → 変数宣言発見: routes
+    → routes配列定義発見: 11 要素
+    → 変数 'routes' に 11 個のルートオブジェクトを保存
+  → RouterModuleの呼び出し発見: 1
+    → メソッド: forRoot
+    → forRoot/forChild発見! 引数数: 1
+    → 変数参照発見: routes
+    → 変数 'routes' からルート定義を取得: 11 個
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: 
+    → プロパティ発見: redirectTo
+    → プロパティ発見: pathMatch
+      → ルート情報生成: path=Some(""), loadChildren=None
+  → ルートオブジェクトを解析中: 4 プロパティ
+    → プロパティ発見: path
+      → path: nagase/login
+    → プロパティ発見: component
+    → プロパティ発見: canActivate
+    → プロパティ発見: canDeactivate
+      → ルート情報生成: path=Some("nagase/login"), loadChildren=None
+  → ルートオブジェクトを解析中: 4 プロパティ
+    → プロパティ発見: path
+      → path: nagase/al
+    → プロパティ発見: resolve
+    → プロパティ発見: loadChildren
+      → loadChildren: Expr(Call(CallExpr { span: 1341..1440#0, callee: Expr(Member(MemberExpr { span: 1341..1403#0, obj: Call(CallExpr { span: 1341..1398#0, callee: Import(Import { span: 1341..1347#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 1348..1397#0, value: "../../../alclient/src/app/business/al/al.module", raw: Some("'../../../alclient/src/app/business/al/al.module'") })) }], type_args: None }), prop: Ident(Ident { span: 1399..1403#0, sym: "then", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 1414..1431#0, params: [Ident(BindingIdent { id: Ident { span: 1415..1416#0, sym: "m", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 1421..1431#0, obj: Ident(Ident { span: 1421..1422#0, sym: "m", optional: false }), prop: Ident(Ident { span: 1423..1431#0, sym: "ALModule", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))
+    → プロパティ発見: canActivate
+      → ルート情報生成: path=Some("nagase/al"), loadChildren=Some("Expr(Call(CallExpr { span: 1341..1440#0, callee: Expr(Member(MemberExpr { span: 1341..1403#0, obj: Call(CallExpr { span: 1341..1398#0, callee: Import(Import { span: 1341..1347#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 1348..1397#0, value: \"../../../alclient/src/app/business/al/al.module\", raw: Some(\"'../../../alclient/src/app/business/al/al.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 1399..1403#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 1414..1431#0, params: [Ident(BindingIdent { id: Ident { span: 1415..1416#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 1421..1431#0, obj: Ident(Ident { span: 1421..1422#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 1423..1431#0, sym: \"ALModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))")
+  → ルートオブジェクトを解析中: 4 プロパティ
+    → プロパティ発見: path
+      → path: nagase/ba
+    → プロパティ発見: resolve
+    → プロパティ発見: loadChildren
+      → loadChildren: Expr(Call(CallExpr { span: 1618..1717#0, callee: Expr(Member(MemberExpr { span: 1618..1680#0, obj: Call(CallExpr { span: 1618..1675#0, callee: Import(Import { span: 1618..1624#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 1625..1674#0, value: "../../../baclient/src/app/business/ba/ba.module", raw: Some("'../../../baclient/src/app/business/ba/ba.module'") })) }], type_args: None }), prop: Ident(Ident { span: 1676..1680#0, sym: "then", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 1691..1708#0, params: [Ident(BindingIdent { id: Ident { span: 1692..1693#0, sym: "m", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 1698..1708#0, obj: Ident(Ident { span: 1698..1699#0, sym: "m", optional: false }), prop: Ident(Ident { span: 1700..1708#0, sym: "BAModule", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))
+    → プロパティ発見: canActivate
+      → ルート情報生成: path=Some("nagase/ba"), loadChildren=Some("Expr(Call(CallExpr { span: 1618..1717#0, callee: Expr(Member(MemberExpr { span: 1618..1680#0, obj: Call(CallExpr { span: 1618..1675#0, callee: Import(Import { span: 1618..1624#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 1625..1674#0, value: \"../../../baclient/src/app/business/ba/ba.module\", raw: Some(\"'../../../baclient/src/app/business/ba/ba.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 1676..1680#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 1691..1708#0, params: [Ident(BindingIdent { id: Ident { span: 1692..1693#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 1698..1708#0, obj: Ident(Ident { span: 1698..1699#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 1700..1708#0, sym: \"BAModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))")
+  → ルートオブジェクトを解析中: 4 プロパティ
+    → プロパティ発見: path
+      → path: nagase/ju
+    → プロパティ発見: resolve
+    → プロパティ発見: loadChildren
+      → loadChildren: Expr(Call(CallExpr { span: 1895..1994#0, callee: Expr(Member(MemberExpr { span: 1895..1957#0, obj: Call(CallExpr { span: 1895..1952#0, callee: Import(Import { span: 1895..1901#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 1902..1951#0, value: "../../../juclient/src/app/business/ju/ju.module", raw: Some("'../../../juclient/src/app/business/ju/ju.module'") })) }], type_args: None }), prop: Ident(Ident { span: 1953..1957#0, sym: "then", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 1968..1985#0, params: [Ident(BindingIdent { id: Ident { span: 1969..1970#0, sym: "m", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 1975..1985#0, obj: Ident(Ident { span: 1975..1976#0, sym: "m", optional: false }), prop: Ident(Ident { span: 1977..1985#0, sym: "JUModule", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))
+    → プロパティ発見: canActivate
+      → ルート情報生成: path=Some("nagase/ju"), loadChildren=Some("Expr(Call(CallExpr { span: 1895..1994#0, callee: Expr(Member(MemberExpr { span: 1895..1957#0, obj: Call(CallExpr { span: 1895..1952#0, callee: Import(Import { span: 1895..1901#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 1902..1951#0, value: \"../../../juclient/src/app/business/ju/ju.module\", raw: Some(\"'../../../juclient/src/app/business/ju/ju.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 1953..1957#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 1968..1985#0, params: [Ident(BindingIdent { id: Ident { span: 1969..1970#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 1975..1985#0, obj: Ident(Ident { span: 1975..1976#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 1977..1985#0, sym: \"JUModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))")
+  → ルートオブジェクトを解析中: 4 プロパティ
+    → プロパティ発見: path
+      → path: nagase/ms
+    → プロパティ発見: resolve
+    → プロパティ発見: loadChildren
+      → loadChildren: Expr(Call(CallExpr { span: 2172..2271#0, callee: Expr(Member(MemberExpr { span: 2172..2234#0, obj: Call(CallExpr { span: 2172..2229#0, callee: Import(Import { span: 2172..2178#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 2179..2228#0, value: "../../../msclient/src/app/business/ms/ms.module", raw: Some("'../../../msclient/src/app/business/ms/ms.module'") })) }], type_args: None }), prop: Ident(Ident { span: 2230..2234#0, sym: "then", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 2245..2262#0, params: [Ident(BindingIdent { id: Ident { span: 2246..2247#0, sym: "m", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 2252..2262#0, obj: Ident(Ident { span: 2252..2253#0, sym: "m", optional: false }), prop: Ident(Ident { span: 2254..2262#0, sym: "MSModule", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))
+    → プロパティ発見: canActivate
+      → ルート情報生成: path=Some("nagase/ms"), loadChildren=Some("Expr(Call(CallExpr { span: 2172..2271#0, callee: Expr(Member(MemberExpr { span: 2172..2234#0, obj: Call(CallExpr { span: 2172..2229#0, callee: Import(Import { span: 2172..2178#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 2179..2228#0, value: \"../../../msclient/src/app/business/ms/ms.module\", raw: Some(\"'../../../msclient/src/app/business/ms/ms.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 2230..2234#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 2245..2262#0, params: [Ident(BindingIdent { id: Ident { span: 2246..2247#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 2252..2262#0, obj: Ident(Ident { span: 2252..2253#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 2254..2262#0, sym: \"MSModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))")
+  → ルートオブジェクトを解析中: 4 プロパティ
+    → プロパティ発見: path
+      → path: nagase/sk
+    → プロパティ発見: resolve
+    → プロパティ発見: loadChildren
+      → loadChildren: Expr(Call(CallExpr { span: 2449..2548#0, callee: Expr(Member(MemberExpr { span: 2449..2511#0, obj: Call(CallExpr { span: 2449..2506#0, callee: Import(Import { span: 2449..2455#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 2456..2505#0, value: "../../../skclient/src/app/business/sk/sk.module", raw: Some("'../../../skclient/src/app/business/sk/sk.module'") })) }], type_args: None }), prop: Ident(Ident { span: 2507..2511#0, sym: "then", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 2522..2539#0, params: [Ident(BindingIdent { id: Ident { span: 2523..2524#0, sym: "m", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 2529..2539#0, obj: Ident(Ident { span: 2529..2530#0, sym: "m", optional: false }), prop: Ident(Ident { span: 2531..2539#0, sym: "SKModule", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))
+    → プロパティ発見: canActivate
+      → ルート情報生成: path=Some("nagase/sk"), loadChildren=Some("Expr(Call(CallExpr { span: 2449..2548#0, callee: Expr(Member(MemberExpr { span: 2449..2511#0, obj: Call(CallExpr { span: 2449..2506#0, callee: Import(Import { span: 2449..2455#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 2456..2505#0, value: \"../../../skclient/src/app/business/sk/sk.module\", raw: Some(\"'../../../skclient/src/app/business/sk/sk.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 2507..2511#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 2522..2539#0, params: [Ident(BindingIdent { id: Ident { span: 2523..2524#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 2529..2539#0, obj: Ident(Ident { span: 2529..2530#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 2531..2539#0, sym: \"SKModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))")
+  → ルートオブジェクトを解析中: 4 プロパティ
+    → プロパティ発見: path
+      → path: nagase/xt
+    → プロパティ発見: resolve
+    → プロパティ発見: loadChildren
+      → loadChildren: Expr(Call(CallExpr { span: 2726..2825#0, callee: Expr(Member(MemberExpr { span: 2726..2788#0, obj: Call(CallExpr { span: 2726..2783#0, callee: Import(Import { span: 2726..2732#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 2733..2782#0, value: "../../../xtclient/src/app/business/xt/xt.module", raw: Some("'../../../xtclient/src/app/business/xt/xt.module'") })) }], type_args: None }), prop: Ident(Ident { span: 2784..2788#0, sym: "then", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 2799..2816#0, params: [Ident(BindingIdent { id: Ident { span: 2800..2801#0, sym: "m", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 2806..2816#0, obj: Ident(Ident { span: 2806..2807#0, sym: "m", optional: false }), prop: Ident(Ident { span: 2808..2816#0, sym: "XTModule", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))
+    → プロパティ発見: canActivate
+      → ルート情報生成: path=Some("nagase/xt"), loadChildren=Some("Expr(Call(CallExpr { span: 2726..2825#0, callee: Expr(Member(MemberExpr { span: 2726..2788#0, obj: Call(CallExpr { span: 2726..2783#0, callee: Import(Import { span: 2726..2732#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 2733..2782#0, value: \"../../../xtclient/src/app/business/xt/xt.module\", raw: Some(\"'../../../xtclient/src/app/business/xt/xt.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 2784..2788#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 2799..2816#0, params: [Ident(BindingIdent { id: Ident { span: 2800..2801#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 2806..2816#0, obj: Ident(Ident { span: 2806..2807#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 2808..2816#0, sym: \"XTModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))")
+  → ルートオブジェクトを解析中: 4 プロパティ
+    → プロパティ発見: path
+      → path: nagase/mock
+    → プロパティ発見: resolve
+    → プロパティ発見: loadChildren
+      → loadChildren: Expr(Call(CallExpr { span: 3005..3098#0, callee: Expr(Member(MemberExpr { span: 3005..3059#0, obj: Call(CallExpr { span: 3005..3054#0, callee: Import(Import { span: 3005..3011#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 3012..3053#0, value: "../../../mockclient/src/app/mock.module", raw: Some("'../../../mockclient/src/app/mock.module'") })) }], type_args: None }), prop: Ident(Ident { span: 3055..3059#0, sym: "then", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 3070..3089#0, params: [Ident(BindingIdent { id: Ident { span: 3071..3072#0, sym: "m", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 3077..3089#0, obj: Ident(Ident { span: 3077..3078#0, sym: "m", optional: false }), prop: Ident(Ident { span: 3079..3089#0, sym: "MOCKModule", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))
+    → プロパティ発見: canActivate
+      → ルート情報生成: path=Some("nagase/mock"), loadChildren=Some("Expr(Call(CallExpr { span: 3005..3098#0, callee: Expr(Member(MemberExpr { span: 3005..3059#0, obj: Call(CallExpr { span: 3005..3054#0, callee: Import(Import { span: 3005..3011#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 3012..3053#0, value: \"../../../mockclient/src/app/mock.module\", raw: Some(\"'../../../mockclient/src/app/mock.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 3055..3059#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 3070..3089#0, params: [Ident(BindingIdent { id: Ident { span: 3071..3072#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 3077..3089#0, obj: Ident(Ident { span: 3077..3078#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 3079..3089#0, sym: \"MOCKModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))")
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: unsupported-browser
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("unsupported-browser"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: login-check
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("login-check"), loadChildren=None
+解析完了:
+  - 総CallExpr数: 18
+  - RouterModule呼び出し数: 1
+  - 発見された変数数: 1
+  - 発見されたルート数: 11
+解析中: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts"
+ファイル解析開始: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts"
+ファイルサイズ: 11847 bytes
+パース成功。モジュール解析開始...
+  → 変数宣言発見: routes
+    → routes配列定義発見: 49 要素
+    → 変数 'routes' に 49 個のルートオブジェクトを保存
+  → RouterModuleの呼び出し発見: 1
+    → メソッド: forChild
+    → forRoot/forChild発見! 引数数: 1
+    → 変数参照発見: routes
+    → 変数 'routes' からルート定義を取得: 49 個
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: 
+    → プロパティ発見: redirectTo
+    → プロパティ発見: pathMatch
+      → ルート情報生成: path=Some(""), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst030"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst030-tab1
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst030-tab1"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst030-tab2
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst030-tab2"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst030-tab3
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst030-tab3"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst030-tab4
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst030-tab4"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst030-tab5
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst030-tab5"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst030-tab6
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst030-tab6"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst030-tab7
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst030-tab7"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst031
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst031"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst031-tab-1
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst031-tab-1"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst031-tab-2
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst031-tab-2"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst031-tab-3
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/frmsjucst031-tab-3"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst041
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst041"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst042
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst042"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst043
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst043"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst044
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst044"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjucst050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjucst050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjufax010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjufax010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjufax020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjufax020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjufax030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjufax030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsb020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsb020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsh010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsh010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsh020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsh020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsj010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsj010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsj020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsj020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsl010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsl010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsl020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsl020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsn010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsn010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumsn020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumsn020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumso010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumso010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumso020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumso020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumss010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumss010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumss020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumss020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumst010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumst010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjumst020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjumst020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjuord010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjuord010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjuord020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjuord020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjuord030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjuord030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjuord031
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjuord031"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjuord032
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjuord032"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjuord033
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjuord033"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjurcv010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjurcv010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: juclient/frmsjustk010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("juclient/frmsjustk010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: juclient/sjuordetail
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("juclient/sjuordetail"), loadChildren=None
+解析完了:
+  - 総CallExpr数: 2
+  - RouterModule呼び出し数: 1
+  - 発見された変数数: 1
+  - 発見されたルート数: 49
+解析中: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\mockclient\\src\\app\\mock-routing.module.ts"
+ファイル解析開始: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\mockclient\\src\\app\\mock-routing.module.ts"
+ファイルサイズ: 1721 bytes
+パース成功。モジュール解析開始...
+  → 変数宣言発見: routes
+    → routes配列定義発見: 7 要素
+    → 変数 'routes' に 7 個のルートオブジェクトを保存
+  → RouterModuleの呼び出し発見: 1
+    → メソッド: forChild
+    → forRoot/forChild発見! 引数数: 1
+    → 変数参照発見: routes
+    → 変数 'routes' からルート定義を取得: 7 個
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: 
+    → プロパティ発見: redirectTo
+    → プロパティ発見: pathMatch
+      → ルート情報生成: path=Some(""), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: mockclient/sample
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("mockclient/sample"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: data
+    → プロパティ発見: path
+      → path: mockclient/table
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("mockclient/table"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: data
+    → プロパティ発見: path
+      → path: mockclient/virtual-table
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("mockclient/virtual-table"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: data
+    → プロパティ発見: path
+      → path: mockclient/tableultra
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("mockclient/tableultra"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: data
+    → プロパティ発見: path
+      → path: mockclient/virtual-tableultra
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("mockclient/virtual-tableultra"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: data
+    → プロパティ発見: path
+      → path: mockclient/tableultra1
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("mockclient/tableultra1"), loadChildren=None
+解析完了:
+  - 総CallExpr数: 2
+  - RouterModule呼び出し数: 1
+  - 発見された変数数: 1
+  - 発見されたルート数: 7
+解析中: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts"
+ファイル解析開始: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts"
+ファイルサイズ: 15693 bytes
+パース成功。モジュール解析開始...
+  → 変数宣言発見: routes
+    → routes配列定義発見: 67 要素
+    → 変数 'routes' に 67 個のルートオブジェクトを保存
+  → RouterModuleの呼び出し発見: 1
+    → メソッド: forChild
+    → forRoot/forChild発見! 引数数: 1
+    → 変数参照発見: routes
+    → 変数 'routes' からルート定義を取得: 67 個
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: 
+    → プロパティ発見: redirectTo
+    → プロパティ発見: pathMatch
+      → ルート情報生成: path=Some(""), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaaa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaaa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaab010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaab010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaac010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaac010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaac012
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaac012"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaae010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaae010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaae020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaae020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaaf010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaaf010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaaf020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaaf020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaah010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaah010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaai010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaai010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsabb011
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("msclient/frmsmsabb011"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsabh010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("msclient/frmsmsabh010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsact010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("msclient/frmsmsact010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacu010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("msclient/frmsmsacu010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaca010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaca010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacc011
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacc011"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacd010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacd010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacd011
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacd011"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsace010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsace010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacf010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacf010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacg010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacg010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsach010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsach010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsach020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsach020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsach030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsach030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsach040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsach040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsach050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsach050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaci010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaci010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsaci020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsaci020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacj010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacj010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacr010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacr010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacy010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacy010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacy020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacy020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbaa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbaa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbaa020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbaa020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbaa040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbaa040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbaa050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbaa050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbaa060
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbaa060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbaa070
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbaa070"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbab010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbab010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbab020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbab020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbab040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbab040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbab050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbab050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbab060
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbab060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbab070
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbab070"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbac010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbac020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbac050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac060
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbac060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacx010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacx010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac070
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("msclient/frmsmsbac070"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac080
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("msclient/frmsmsbac080"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac090
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbac090"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac100
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbac100"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac110
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("msclient/frmsmsbac110"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac120
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("msclient/frmsmsbac120"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsbac130
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsbac130"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsdk010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsdk010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsdl010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsdl010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsdma012
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsdma012"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsdma011
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsdma011"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsdma014
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsdma014"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsacd013
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsacd013"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsdma010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("msclient/frmsmsdma010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: msclient/frmsmsdma013
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("msclient/frmsmsdma013"), loadChildren=None
+解析完了:
+  - 総CallExpr数: 2
+  - RouterModule呼び出し数: 1
+  - 発見された変数数: 1
+  - 発見されたルート数: 67
+解析中: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts"
+ファイル解析開始: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts"
+ファイルサイズ: 5939 bytes
+パース成功。モジュール解析開始...
+  → 変数宣言発見: routes
+    → routes配列定義発見: 24 要素
+    → 変数 'routes' に 24 個のルートオブジェクトを保存
+  → RouterModuleの呼び出し発見: 1
+    → メソッド: forChild
+    → forRoot/forChild発見! 引数数: 1
+    → 変数参照発見: routes
+    → 変数 'routes' からルート定義を取得: 24 個
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: 
+    → プロパティ発見: redirectTo
+    → プロパティ発見: pathMatch
+      → ルート情報生成: path=Some(""), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsmenu
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsmenu"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskcba010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskcba010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskcba020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskcba020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskcbb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskcbb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskcbc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskcbc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskcbc020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskcbc020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskcca010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskcca010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskccb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskccb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskcda010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskcda010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskcda020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskcda020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskcdb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskcdb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskdb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskdb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskeb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskeb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskec010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskec010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskec020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskec020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskfc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskfc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskgad010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskgad010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskgba010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskgba010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskgba020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskgba020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskgca010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskgca010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskgca020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskgca020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsskgda010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsskgda010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: skclient/frmsmsbac050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("skclient/frmsmsbac050"), loadChildren=None
+解析完了:
+  - 総CallExpr数: 2
+  - RouterModule呼び出し数: 1
+  - 発見された変数数: 1
+  - 発見されたルート数: 24
+解析中: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts"
+ファイル解析開始: "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts"
+ファイルサイズ: 32386 bytes
+パース成功。モジュール解析開始...
+  → 変数宣言発見: routes
+    → routes配列定義発見: 140 要素
+    → 変数 'routes' に 140 個のルートオブジェクトを保存
+  → RouterModuleの呼び出し発見: 1
+    → メソッド: forChild
+    → forRoot/forChild発見! 引数数: 1
+    → 変数参照発見: routes
+    → 変数 'routes' からルート定義を取得: 140 個
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: 
+    → プロパティ発見: redirectTo
+    → プロパティ発見: pathMatch
+      → ルート情報生成: path=Some(""), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze020
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze060
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze080
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze080"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze090
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze090"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze100
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze100"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze110
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze110"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze120
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze120"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze130
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze130"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze140
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze140"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze150
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze150"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtze160
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtze160"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxteba010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxteba010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxteba020
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxteba020"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtebd010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtebd010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxteda010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxteda010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: sxte_sxtg/frmsxtedb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("sxte_sxtg/frmsxtedb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: sxte_sxtg/frmsxtgba010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("sxte_sxtg/frmsxtgba010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtgbb010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtgbb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: frmsxtze-000/frmsxtgbc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("frmsxtze-000/frmsxtgbc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: sxte_sxtg/frmsxteba010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("sxte_sxtg/frmsxteba010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: sxte_sxtg/frmsxteba020
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("sxte_sxtg/frmsxteba020"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: sxte_sxtg/frmsxtebd010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("sxte_sxtg/frmsxtebd010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: sxte_sxtg/frmsxteda010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("sxte_sxtg/frmsxteda010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: sxte_sxtg/frmsxtedb010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("sxte_sxtg/frmsxtedb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: sxte_sxtg/frmsxtgbb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("sxte_sxtg/frmsxtgbb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: sxte_sxtg/frmsxtgbc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("sxte_sxtg/frmsxtgbc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtaaf010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtaaf010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtaaf020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtaaf020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtaag010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtaag010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtaag020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtaag020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtabc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtabc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtabd010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtabd010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtacd010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtacd010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtacd020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtacd020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtace010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtace010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtace020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtace020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtacf010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtacf010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtacf020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtacf020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadg020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadg020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadg030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadg030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadg040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadg040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadg050
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadg050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadg060
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadg060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadh010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadh010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadh020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadh020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadh030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadh030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadh040
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadh040"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtagk010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtagk010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtagk020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtagk020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahh010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahh010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahh020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahh020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahh030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahh030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahi010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahi010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahi020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahi020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahj010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahj010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahj020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahj020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahj030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahj030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahl010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahl010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahl020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahl020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtahm010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtahm010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtaka010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtaka010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtakb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtakb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtakc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtakc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtazb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtazb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtazb020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtazb020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtbac010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtbac010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtbac020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtbac020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtbbc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtbbc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtbbc020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtbbc020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtbdc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtbdc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtbfa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtbfa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtbfb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtbfb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtbfc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtbfc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtcca010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtcca010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtccb010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtccb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtccb020
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtccb020"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtccc010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtccc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtccc050
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtccc050"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtccc060
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtccc060"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtccc070
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtccc070"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtccc080
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtccc080"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtccd010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtccd010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtcda010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtcda010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtcda020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtcda020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtcdb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtcdb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtcdb020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtcdb020"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtd00010
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtd00010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtd00020
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtd00020"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtd00030
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtd00030"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtd00040
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtd00040"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtd00050
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/frmsxtd00050"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtfaa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtfaa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtfaa020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtfaa020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtfaa030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtfaa030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtfac010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtfac010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtfac020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtfac020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtfac030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtfac030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtkae010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtkae010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtkae020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtkae020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtkbc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtkbc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtkbc020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtkbc020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtkdc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtkdc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtkfa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtkfa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtkfb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtkfb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtkfc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtkfc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtlac020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtlac020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtlbc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtlbc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtlbc020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtlbc020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtldc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtldc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtlfa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtlfa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtlfd010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtlfd010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtlfe010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtlfe010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtnbc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtnbc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtnbc020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtnbc020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtnbe010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtnbe010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtnfa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtnfa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtnfb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtnfb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtnfb020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtnfb020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtnfb030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtnfb030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtnfc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtnfc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtnfc020
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtnfc020"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtobc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtobc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtzaa010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtzaa010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtzab010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtzab010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtzab030
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtzab030"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtaaf010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtaaf010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtadg010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtadg010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtlfb010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtlfb010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtlfc010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtlfc010"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtlac010
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtlac010"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/sxtmitsedidetail
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/sxtmitsedidetail"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/sxtagcedidetail
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/sxtagcedidetail"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/sxtdiwedidetailt
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/sxtdiwedidetailt"), loadChildren=None
+  → ルートオブジェクトを解析中: 3 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/frmsxtze140
+    → プロパティ発見: component
+    → プロパティ発見: data
+      → ルート情報生成: path=Some("xtclient/frmsxtze140"), loadChildren=None
+  → ルートオブジェクトを解析中: 2 プロパティ
+    → プロパティ発見: path
+      → path: xtclient/sxtrulemitsubishi
+    → プロパティ発見: component
+      → ルート情報生成: path=Some("xtclient/sxtrulemitsubishi"), loadChildren=None
+解析完了:
+  - 総CallExpr数: 2
+  - RouterModule呼び出し数: 1
+  - 発見された変数数: 1
+  - 発見されたルート数: 140
+[
+  {
+    "path": "",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "alclient/frmsalca010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "alclient/frmsalca020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "alclient/frmsalca030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "alclient/frmsalca040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "alclient/frmsalca050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "alclient/frmsalde010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "alclient/frmsalde030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "alclient/frmsalde040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\alclient\\src\\app\\business\\al\\al-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaaa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaaa030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/SBASlpArrvlShipPlanDetail",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/SBASlpArrvlShipPlanDetailOpt",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaaa040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaab010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaac010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaba010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbabb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbabb020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbabb030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaca010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaca020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaca030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaca040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbadb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbadc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbadd010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbade010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaea010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaea020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaea030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaea040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaea050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbafa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbafa020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbafa030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbafb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbafb020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbafc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbafd010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbafe010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbafe020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbage010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbage020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbage030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbage040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbage050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbage060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbahb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaka010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaka020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaka030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaka040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaka050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaka060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbaka070",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala070",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala080",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala090",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbala100",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalb020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalb030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc070",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc080",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc100",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc110",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbalc120",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbama010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbana010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "baclient/frmsbapa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\baclient\\src\\app\\business\\ba\\ba-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "nagase/login",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "nagase/al",
+    "load_children": "Expr(Call(CallExpr { span: 1341..1440#0, callee: Expr(Member(MemberExpr { span: 1341..1403#0, obj: Call(CallExpr { span: 1341..1398#0, callee: Import(Import { span: 1341..1347#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 1348..1397#0, value: \"../../../alclient/src/app/business/al/al.module\", raw: Some(\"'../../../alclient/src/app/business/al/al.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 1399..1403#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 1414..1431#0, params: [Ident(BindingIdent { id: Ident { span: 1415..1416#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 1421..1431#0, obj: Ident(Ident { span: 1421..1422#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 1423..1431#0, sym: \"ALModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))",
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "nagase/ba",
+    "load_children": "Expr(Call(CallExpr { span: 1618..1717#0, callee: Expr(Member(MemberExpr { span: 1618..1680#0, obj: Call(CallExpr { span: 1618..1675#0, callee: Import(Import { span: 1618..1624#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 1625..1674#0, value: \"../../../baclient/src/app/business/ba/ba.module\", raw: Some(\"'../../../baclient/src/app/business/ba/ba.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 1676..1680#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 1691..1708#0, params: [Ident(BindingIdent { id: Ident { span: 1692..1693#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 1698..1708#0, obj: Ident(Ident { span: 1698..1699#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 1700..1708#0, sym: \"BAModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))",
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "nagase/ju",
+    "load_children": "Expr(Call(CallExpr { span: 1895..1994#0, callee: Expr(Member(MemberExpr { span: 1895..1957#0, obj: Call(CallExpr { span: 1895..1952#0, callee: Import(Import { span: 1895..1901#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 1902..1951#0, value: \"../../../juclient/src/app/business/ju/ju.module\", raw: Some(\"'../../../juclient/src/app/business/ju/ju.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 1953..1957#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 1968..1985#0, params: [Ident(BindingIdent { id: Ident { span: 1969..1970#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 1975..1985#0, obj: Ident(Ident { span: 1975..1976#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 1977..1985#0, sym: \"JUModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))",
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "nagase/ms",
+    "load_children": "Expr(Call(CallExpr { span: 2172..2271#0, callee: Expr(Member(MemberExpr { span: 2172..2234#0, obj: Call(CallExpr { span: 2172..2229#0, callee: Import(Import { span: 2172..2178#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 2179..2228#0, value: \"../../../msclient/src/app/business/ms/ms.module\", raw: Some(\"'../../../msclient/src/app/business/ms/ms.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 2230..2234#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 2245..2262#0, params: [Ident(BindingIdent { id: Ident { span: 2246..2247#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 2252..2262#0, obj: Ident(Ident { span: 2252..2253#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 2254..2262#0, sym: \"MSModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))",
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "nagase/sk",
+    "load_children": "Expr(Call(CallExpr { span: 2449..2548#0, callee: Expr(Member(MemberExpr { span: 2449..2511#0, obj: Call(CallExpr { span: 2449..2506#0, callee: Import(Import { span: 2449..2455#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 2456..2505#0, value: \"../../../skclient/src/app/business/sk/sk.module\", raw: Some(\"'../../../skclient/src/app/business/sk/sk.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 2507..2511#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 2522..2539#0, params: [Ident(BindingIdent { id: Ident { span: 2523..2524#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 2529..2539#0, obj: Ident(Ident { span: 2529..2530#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 2531..2539#0, sym: \"SKModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))",
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "nagase/xt",
+    "load_children": "Expr(Call(CallExpr { span: 2726..2825#0, callee: Expr(Member(MemberExpr { span: 2726..2788#0, obj: Call(CallExpr { span: 2726..2783#0, callee: Import(Import { span: 2726..2732#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 2733..2782#0, value: \"../../../xtclient/src/app/business/xt/xt.module\", raw: Some(\"'../../../xtclient/src/app/business/xt/xt.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 2784..2788#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 2799..2816#0, params: [Ident(BindingIdent { id: Ident { span: 2800..2801#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 2806..2816#0, obj: Ident(Ident { span: 2806..2807#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 2808..2816#0, sym: \"XTModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))",
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "nagase/mock",
+    "load_children": "Expr(Call(CallExpr { span: 3005..3098#0, callee: Expr(Member(MemberExpr { span: 3005..3059#0, obj: Call(CallExpr { span: 3005..3054#0, callee: Import(Import { span: 3005..3011#0 }), args: [ExprOrSpread { spread: None, expr: Lit(Str(Str { span: 3012..3053#0, value: \"../../../mockclient/src/app/mock.module\", raw: Some(\"'../../../mockclient/src/app/mock.module'\") })) }], type_args: None }), prop: Ident(Ident { span: 3055..3059#0, sym: \"then\", optional: false }) })), args: [ExprOrSpread { spread: None, expr: Arrow(ArrowExpr { span: 3070..3089#0, params: [Ident(BindingIdent { id: Ident { span: 3071..3072#0, sym: \"m\", optional: false }, type_ann: None })], body: Expr(Member(MemberExpr { span: 3077..3089#0, obj: Ident(Ident { span: 3077..3078#0, sym: \"m\", optional: false }), prop: Ident(Ident { span: 3079..3089#0, sym: \"MOCKModule\", optional: false }) })), is_async: false, is_generator: false, type_params: None, return_type: None }) }], type_args: None }))",
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "unsupported-browser",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "login-check",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\common\\src\\app\\app-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst030-tab1",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst030-tab2",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst030-tab3",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst030-tab4",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst030-tab5",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst030-tab6",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst030-tab7",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst031",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst031-tab-1",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst031-tab-2",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst031-tab-3",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst041",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst042",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst043",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst044",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjucst050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjufax010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjufax020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjufax030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsb020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsh010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsh020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsj010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsj020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsl010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsl020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsn010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumsn020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumso010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumso020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumss010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumss020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumst010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjumst020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjuord010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjuord020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjuord030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjuord031",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjuord032",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjuord033",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjurcv010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/frmsjustk010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "juclient/sjuordetail",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\juclient\\src\\app\\business\\ju\\ju-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\mockclient\\src\\app\\mock-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "mockclient/sample",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\mockclient\\src\\app\\mock-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "mockclient/table",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\mockclient\\src\\app\\mock-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "mockclient/virtual-table",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\mockclient\\src\\app\\mock-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "mockclient/tableultra",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\mockclient\\src\\app\\mock-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "mockclient/virtual-tableultra",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\mockclient\\src\\app\\mock-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "mockclient/tableultra1",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\mockclient\\src\\app\\mock-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaaa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaab010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaac010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaac012",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaae010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaae020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaaf010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaaf020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaah010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaai010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsabb011",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsabh010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsact010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacu010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaca010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacc011",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacd010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacd011",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsace010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacf010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacg010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsach010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsach020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsach030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsach040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsach050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaci010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsaci020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacj010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacr010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacy010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacy020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbaa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbaa020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbaa040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbaa050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbaa060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbaa070",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbab010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbab020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbab040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbab050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbab060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbab070",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacx010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac070",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac080",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac090",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac100",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac110",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac120",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsbac130",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsdk010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsdl010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsdma012",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsdma011",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsdma014",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsacd013",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsdma010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "msclient/frmsmsdma013",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\msclient\\src\\app\\business\\ms\\ms-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsmenu",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskcba010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskcba020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskcbb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskcbc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskcbc020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskcca010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskccb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskcda010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskcda020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskcdb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskdb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskeb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskec010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskec020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskfc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskgad010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskgba010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskgba020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskgca010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskgca020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsskgda010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "skclient/frmsmsbac050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\skclient\\src\\app\\business\\sk\\sk-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze080",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze090",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze100",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze110",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze120",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze130",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze140",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze150",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtze160",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxteba010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxteba020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtebd010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxteda010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "sxte_sxtg/frmsxtedb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "sxte_sxtg/frmsxtgba010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtgbb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "frmsxtze-000/frmsxtgbc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "sxte_sxtg/frmsxteba010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "sxte_sxtg/frmsxteba020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "sxte_sxtg/frmsxtebd010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "sxte_sxtg/frmsxteda010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "sxte_sxtg/frmsxtedb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "sxte_sxtg/frmsxtgbb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "sxte_sxtg/frmsxtgbc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtaaf010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtaaf020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtaag010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtaag020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtabc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtabd010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtacd010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtacd020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtace010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtace020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtacf010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtacf020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadg020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadg030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadg040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadg050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadg060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadh010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadh020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadh030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadh040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtagk010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtagk020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahh010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahh020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahh030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahi010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahi020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahj010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahj020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahj030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahl010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahl020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtahm010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtaka010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtakb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtakc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtazb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtazb020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtbac010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtbac020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtbbc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtbbc020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtbdc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtbfa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtbfb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtbfc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtcca010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtccb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtccb020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtccc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtccc050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtccc060",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtccc070",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtccc080",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtccd010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtcda010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtcda020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtcdb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtcdb020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtd00010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtd00020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtd00030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtd00040",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtd00050",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtfaa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtfaa020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtfaa030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtfac010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtfac020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtfac030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtkae010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtkae020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtkbc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtkbc020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtkdc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtkfa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtkfb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtkfc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtlac020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtlbc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtlbc020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtldc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtlfa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtlfd010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtlfe010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtnbc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtnbc020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtnbe010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtnfa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtnfb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtnfb020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtnfb030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtnfc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtnfc020",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtobc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtzaa010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtzab010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtzab030",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtaaf010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtadg010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtlfb010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtlfc010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtlac010",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/sxtmitsedidetail",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/sxtagcedidetail",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/sxtdiwedidetailt",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/frmsxtze140",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  },
+  {
+    "path": "xtclient/sxtrulemitsubishi",
+    "load_children": null,
+    "source_file": "\\\\?\\D:\\source-code\\NEWTON-Frontend\\xtclient\\src\\app\\business\\xt\\xt-routing.module.ts",
+    "children": []
+  }
+]

@@ -1,0 +1,25 @@
+[package]
+name = "angular-router-analyzer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# ─── clap: CLI 引数パーサ (最新 4 系) ────────────────────────
+clap            = { version = "4.5.39", features = ["derive"] }
+
+# ─── walkdir: 再帰的なディレクトリ探索 (最新 2 系) ───────────
+walkdir         = "2.5.0"
+
+# ─── SWC 関連クレートを 0.11.x に修正 ────────────────────────
+# バージョン11.0.0は存在しないため、0.11.xシリーズを使用
+swc_ecma_parser = "0.141"
+swc_common      = "0.33"
+swc_ecma_ast    = "0.110"
+swc_ecma_visit  = "0.96"
+
+# ─── serde 系: JSON シリアライズ／デシリアライズ ──────────────
+serde           = { version = "1.0.219", features = ["derive"] }
+serde_json      = "1.0.140"
+
+# ─── path-absolutize: 相対パスを絶対パスに変換 ─────────────────
+path-absolutize = "3.1.1"
